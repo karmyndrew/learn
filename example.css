@@ -9,7 +9,7 @@ body {
 
 header {
   grid-area: header;
-  color: white;
+  color: red;
   padding: 10px;
   font-family: 'Gill Sans';
   font-size: 200%;
